@@ -1,0 +1,17 @@
+fun gcd(a, b) =
+{
+t = b;
+b = a mod b;
+if (b == 0)
+{
+output = t;
+}
+else
+{
+output = gcd(t, b);
+}
+}
+output;
+{
+print(gcd(32, 18));
+}
