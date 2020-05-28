@@ -35,7 +35,7 @@ More results can be found <a href="https://sdg-angular.uk.r.appspot.com/"> here 
 
 ![image](https://user-images.githubusercontent.com/17957548/82724953-a5010380-9ca7-11ea-9b0d-66430a67b88e.png)
 
-Forecasting using LSTM:
+Forecasting using LSTM for LA county:
 
 ![image](https://user-images.githubusercontent.com/17957548/82724990-e42f5480-9ca7-11ea-9cae-582771bd152c.png)
 
@@ -43,7 +43,7 @@ Some analysis on Accident dataset:
 
 ![image](https://user-images.githubusercontent.com/17957548/82724998-f6a98e00-9ca7-11ea-985b-15b5dd99cea8.png)
 
-
+For more results please refer the notebooks and project reports
 
 
 
